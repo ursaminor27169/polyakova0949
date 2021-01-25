@@ -1,0 +1,28 @@
+{
+  "purchases": [
+    {
+      "name": "milk",
+      "amount": "2",
+      "status": false,
+      "id": 1
+    },
+    {
+      "name": "orange juice",
+      "amount": 1,
+      "status": true,
+      "id": 2
+    },
+    {
+      "name": "hqd",
+      "amount": "3",
+      "status": false,
+      "id": 3
+    },
+    {
+      "name": "sgushenka",
+      "amount": "1",
+      "status": true,
+      "id": 4
+    }
+  ]
+}
